@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{3E2995A1-E02F-7C38-CD41-8739F7B611E7}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Bird.cs">
+    <Files>
+      <File FileName="Assets/Bird.cs" Line="17" Column="33" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="WizGame_1" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Bird.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="a22a0e01-0106-474f-b0cf-6c5853498969" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
