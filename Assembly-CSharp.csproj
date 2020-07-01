@@ -63,7 +63,8 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\Bird.cs" />
+    <Compile Include="Assets\Scripts\Bird.cs" />
+    <Compile Include="Assets\Scripts\Enemy.cs" />
     <Reference Include="Unity.Timeline.Editor">
       <HintPath>/Users/wizz/Desktop/Game_Develop/WizGame_1/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
     </Reference>
@@ -144,6 +145,12 @@
     </Reference>
     <Reference Include="UnityEditor.UI">
       <HintPath>/Users/wizz/Desktop/Game_Develop/WizGame_1/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
+    </Reference>
+    <Reference Include="Cinemachine">
+      <HintPath>/Users/wizz/Desktop/Game_Develop/WizGame_1/Library/ScriptAssemblies/Cinemachine.dll</HintPath>
+    </Reference>
+    <Reference Include="com.unity.cinemachine.editor">
+      <HintPath>/Users/wizz/Desktop/Game_Develop/WizGame_1/Library/ScriptAssemblies/com.unity.cinemachine.editor.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.AIModule">
       <HintPath>/Applications/Unity/Hub/Editor/2019.3.11f1/Unity.app/Contents/Managed/UnityEngine/UnityEngine.AIModule.dll</HintPath>

@@ -1,14 +1,17 @@
 ﻿<Properties StartupConfiguration="{3E2995A1-E02F-7C38-CD41-8739F7B611E7}|">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Bird.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Bird.cs">
     <Files>
-      <File FileName="Assets/Bird.cs" Line="17" Column="33" />
+      <File FileName="Assets/Scripts/Enemy.cs" Line="16" Column="2" />
+      <File FileName="Assets/Scripts/Bird.cs" Line="16" Column="31" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="WizGame_1" expanded="True">
             <Node name="Assets" expanded="True">
-              <Node name="Bird.cs" selected="True" />
+              <Node name="Scripts" expanded="True">
+                <Node name="Bird.cs" selected="True" />
+              </Node>
             </Node>
           </Node>
         </State>
@@ -17,7 +20,7 @@
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="a22a0e01-0106-474f-b0cf-6c5853498969" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="0b7bbdda-344b-48a6-839b-a5ecfb3567f8" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
